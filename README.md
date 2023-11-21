@@ -1,1 +1,2 @@
 如你所見，這裡是放快捷腳本的地方
+如遇powershell腳本無法運作之問題，請嘗試powershell_ExecutionPolicy set Unrestricted.reg檔案
